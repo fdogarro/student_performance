@@ -1,5 +1,6 @@
 ## Factors Influencing Student Exam Performance: Multi-Model Analysis
 
+### Felicia D. O'Garro
 
 ### Executive Summary
 
