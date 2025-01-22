@@ -29,7 +29,7 @@ For count data, such as the number of days attended, Poisson regression will ana
 
 Model validation and residual analysis will ensure the robustness and reliability of findings. Cross-validation and residual diagnostics will help identify patterns or deviations from model assumptions. By integrating these techniques, the goal is to identify the most influential predictors of exam performance, understand their interactions, and develop a reliable predictive model for student outcomes.
 
-### Conclusion and Findings
+### Conclusion
 
 The analysis revealed critical insights into the factors influencing student exam performance by leveraging multiple modeling approaches, including OLS regression, Logistic Regression, Bayesian methods, Hierarchical Bayesian modeling, and Poisson regression. Each method offered unique perspectives, comprehensively understanding the relationships between predictors and outcomes. The comprehensive model (Model 1) performed best among the OLS models, explaining 62.6% of the variability in Exam_Score. It highlighted the significant contributions of family-related predictors such as Parental_Involvement and Parental_Education_Level, emphasizing the importance of external support alongside academic effort. However, diagnostic issues like heteroscedasticity and non-normality of residuals suggest further refinement of these models.
 
